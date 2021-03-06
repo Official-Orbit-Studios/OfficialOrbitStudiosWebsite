@@ -198,6 +198,10 @@ dmypy.json
 
 # Rope project settings
 
+# MacOS
+
+.DS_Store
+
 # mkdocs documentation
 
 # mypy
